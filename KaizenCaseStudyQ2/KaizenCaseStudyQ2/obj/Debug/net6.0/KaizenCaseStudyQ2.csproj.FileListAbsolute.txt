@@ -1,0 +1,17 @@
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\bin\Debug\net6.0\KaizenCaseStudyQ2.exe
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\bin\Debug\net6.0\KaizenCaseStudyQ2.deps.json
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\bin\Debug\net6.0\KaizenCaseStudyQ2.runtimeconfig.json
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\bin\Debug\net6.0\KaizenCaseStudyQ2.dll
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\bin\Debug\net6.0\KaizenCaseStudyQ2.pdb
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\obj\Debug\net6.0\KaizenCaseStudyQ2.csproj.AssemblyReference.cache
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\obj\Debug\net6.0\KaizenCaseStudyQ2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\obj\Debug\net6.0\KaizenCaseStudyQ2.AssemblyInfoInputs.cache
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\obj\Debug\net6.0\KaizenCaseStudyQ2.AssemblyInfo.cs
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\obj\Debug\net6.0\KaizenCaseStudyQ2.csproj.CoreCompileInputs.cache
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\obj\Debug\net6.0\KaizenCaseStudyQ2.csproj.CopyComplete
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\obj\Debug\net6.0\KaizenCaseStudyQ2.dll
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\obj\Debug\net6.0\refint\KaizenCaseStudyQ2.dll
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\obj\Debug\net6.0\KaizenCaseStudyQ2.pdb
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\obj\Debug\net6.0\KaizenCaseStudyQ2.genruntimeconfig.cache
+C:\Users\furka\source\repos\KaizenCaseStudyQ2\KaizenCaseStudyQ2\obj\Debug\net6.0\ref\KaizenCaseStudyQ2.dll
