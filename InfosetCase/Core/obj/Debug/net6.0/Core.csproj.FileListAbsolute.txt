@@ -1,0 +1,42 @@
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\Furkan Erdoğan\source\repos\DotNetBackEnd\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\bin\Debug\net6.0\Core.dll
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\obj\Debug\net6.0\Core.dll
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\Furkan Erdoğan\Desktop\Furkan the Universe\AllGithubClones\DotNetCoreBackend\Core\obj\Debug\net6.0\ref\Core.dll
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\bin\Debug\net6.0\Core.deps.json
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\bin\Debug\net6.0\Core.runtimeconfig.json
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\bin\Debug\net6.0\Core.dll
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\bin\Debug\net6.0\Core.pdb
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\obj\Debug\net6.0\Core.csproj.AssemblyReference.cache
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\obj\Debug\net6.0\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\obj\Debug\net6.0\Core.AssemblyInfoInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\obj\Debug\net6.0\Core.AssemblyInfo.cs
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\obj\Debug\net6.0\Core.csproj.CoreCompileInputs.cache
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\obj\Debug\net6.0\Core.dll
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\obj\Debug\net6.0\refint\Core.dll
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\obj\Debug\net6.0\Core.pdb
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\obj\Debug\net6.0\Core.genruntimeconfig.cache
+C:\Users\furka\OneDrive\Masaüstü\Case\Core\obj\Debug\net6.0\ref\Core.dll
